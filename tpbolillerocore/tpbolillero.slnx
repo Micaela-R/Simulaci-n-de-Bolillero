@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="tpbolillerocore/tpbolillerocore.csproj" />
+  <Project Path="tpbolillerotest/tpbolillerotest.csproj" />
+</Solution>
